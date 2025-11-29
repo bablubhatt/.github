@@ -6,21 +6,19 @@
 ---
 
 ## 🐍 Featured Project: Snake Game
-Interactive Snake Game with score, timer, and pause/resume functionality.  
+A fun and interactive Snake Game with score, timer, and pause/resume.  
 
 🎮 **Play Live:** [Snake Game Live](https://bablubhatt.github.io/Snake-Game/)  
-
-![Snake Game GIF](https://raw.githubusercontent.com/bablubhatt/Snake-Game/main/screenshot1.png)
-![Snake Game Screenshot](https://raw.githubusercontent.com/bablubhatt/Snake-Game/main/screenshot2.png)
+💻 **Code:** [GitHub Repo](https://github.com/bablubhatt/Snake-Game)
 
 ---
 
-## 🌐 Coming Soon: React Projects
-- Interactive dashboards 📊  
-- Modern web apps 🌐  
-- Fun experiments 💡  
+## 🌐 Other Projects (Coming Soon)
+Here are some projects I’m currently **working on**:  
 
-*(Stay tuned, will be updated soon!)*
+- Interactive dashboards 📊 – *Coming Soon*  
+- Modern web apps 🌐 – *Working on it*  
+- Fun experiments 💡 – *Coming Soon*
 
 ---
 
@@ -36,5 +34,4 @@ Interactive Snake Game with score, timer, and pause/resume functionality.
 ---
 
 ### 💬 Motto
-“Code. Learn. Build. Repeat.” 🔥  
-Curiosity drives creativity. Keep exploring! 🚀
+“Think, Code, Break, Fix, Repeat… and always keep learning! ✨”
